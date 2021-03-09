@@ -2,6 +2,8 @@
 
 ## Estudiante: Carolina Noemí Coronel
 
+Soy Carolina, tengo 28 años, me encanta la exploración espacial y me encantaría poder aplicar todo lo que voy aprendiendo a alguna misión espacial!
+
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
 Consiste en hacer 2 simples tareas:
